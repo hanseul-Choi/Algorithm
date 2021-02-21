@@ -1,2 +1,8 @@
 # Algorithm
-백준 알고리즘 사이트를 기반으로 한 알고리즘 문제 풀이
+매일매일 알고리즘을 푸는 것을 목표로 합니다.
+구현 방식과 성능 개선에 대해 계속 생각하고자 합니다.
+모든 문제는 백준 문제에 기반하여 풀고 있습니다.
+
+참고 사이트 : https://www.acmicpc.net/
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hschoi5542@gmail.com)](mailto:hschoi5542@gmail.com)

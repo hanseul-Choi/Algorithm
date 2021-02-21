@@ -3,8 +3,8 @@
 구현 방식과 성능 개선에 대해 계속 생각하고자 합니다.<br>
 모든 문제는 백준 문제에 기반하여 풀고 있습니다.<br>
 
-참고 사이트 : https://www.acmicpc.net/ <br>
+참고 사이트 : https://www.acmicpc.net/ 
 
-<br><br>
+<br><br><br>
 _Contact :_ &nbsp; 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hschoi5542@gmail.com)](mailto:hschoi5542@gmail.com)
